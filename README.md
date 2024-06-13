@@ -1,4 +1,5 @@
 <p>Name : Peng Ouyang  </p>
-Education : MS student, 2022-2025 \\
-Institution: SUN YAT-SEN UNIVERSITY \\
-Research areas of interest: Federated Learning \\
+<p>Email : ouyp5@mail2.sysu.edu.cn  </p>
+<p>Education : MS student, 2022-2025 </p>
+<p>Institution: SUN YAT-SEN UNIVERSITY </p>
+<p>Research areas of interest: Federated Learning </p>
